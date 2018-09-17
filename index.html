@@ -1,11 +1,115 @@
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<h3 style="text-align: center">你好, My name is 陈荣辉</h3>
+    <title>太极css3动画</title>
+    <style>
+        .box {
+            width: 600px;
+            height: 600px;
+            margin:100px;
+            position: relative;
+            /* border-radius边框半径 ps中的圆角工具 最多可设置8个值*/
+            border-radius: 50%;
+            background-color: #000;
+            /*box-shadow给div添加阴影 rgba中的a是设置透明度*/
+            box-shadow: 0 0 50px rgba(0, 0, 0, .8);
+            /*z-index层叠关系相当于PS里面的图层*/
+            z-index: 1;
+            /* -webkit代表safari、chrome私有属性 -moz代表火狐浏览器私有属性 */
+            /* 添加动画 rotation旋转 infinite无限播放*/
+            -webkit-animation: rotation 4s linear infinite;
+            -moz-animation: rotation 2.5s linear infinite;
+        }
+        /* css伪选择器>>伪对象选择符:before :after用法
+        1. :after一设置在对象后（依据对象树的逻辑结构）发生的内容。用来和content属性一起使用，并且必须定义content属性
+        2. :before设置在对象前（依据对象树的逻辑结构）发生的内容。用来和content属性一起使用，并且必须定义content属性;
+        */
+        .box:before,
+        .box:after {
+            content: '';
+            width: 300px;
+            height: 600px;
+            position: absolute;
+            display: block;
+            top: 0;
+        }
+        .box:before {
+            left: 0;
+            border-radius: 300px 0 0 300px;
+            background-color: #000;
+        }
 
+        .box:after {
+            right: 0;
+            border-radius: 0 300px 300px 0;
+            background-color: #fff;
+        }
+
+        .yuan1,
+        .yuan2 {
+            z-index: 2;
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            position: absolute;
+        }
+
+        .yuan1 {
+            top: 0;
+            left: 150px;
+            background: #000;
+        }
+
+        .yuan2 {
+            bottom: 0;
+            left: 150px;
+            background: #fff;
+        }
+
+        .yuan1:after,
+        .yuan2:before {
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            display: block;
+            content: "";
+            border-radius: 50%;
+        }
+
+        .yuan1:after {
+            top: 130px;
+            left: 158px;
+            background-color: #fff;
+        }
+
+        .yuan2:before {
+            bottom: 130px;
+            right: 158px;
+            background-color: #000;
+        }
+        /* @keyframes 规则用于创建动画 */
+
+        @keyframes rotation {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div class="box">
+    <div class="yuan1" style="border: 1px solid red;"></div>
+    <div class="yuan2">
+
+    </div>
+</div>
 </body>
+
 </html>
