@@ -2,220 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9ba5eb-5bc2-4b49-aee3-c56821cb9c00" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add-address.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/address.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mui.picker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delivery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dldetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dlplun.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fabu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/farm-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/farm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hand-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hand-release.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hand.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-pay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-torder-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-torder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huifu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconfont/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/54b9cae9d6bc4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/553b0e254774b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/553b0e58b6c52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc699e15457.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc69d15576b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc69e12131a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc6a077633c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc6a2642245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc6aa7aee21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc6ad3de600.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc6af415a71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc6b07ab95b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc6b1f816fd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc720e3ac29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc7214c77a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc778184330.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc779964cb5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc779f436dc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc77a6401bc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55cc77abea1c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55dec2a5c2fa3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55dec7e1e704e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55dec7fe2433a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/55dec84a4abcb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/570da2da9eb8f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/57158ac95c13b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/573a7a6742999.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5755238d18735.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/575e6d0358d28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5767930c09ead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/57679332e4805.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5799a2ab98849.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5799a2e198bdd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/57a017b46f3fc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/57d89f75cb635.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/57dde56e654f4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/alipay2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/chahao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/check1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/check2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clockIco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/detail-iocn001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/detail-iocn01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ewm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footIco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footIco_on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footer_group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footer_group_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footer_home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footer_home_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footer_my.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footer_my_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footer_store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/full_star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/group1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/group2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/group3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/group4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/group5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ico3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/map.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mid_star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/none_star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/on_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/qrcode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sale1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sale2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sale3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/searchone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thumb_543ba5688cb7b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thumb_553a14d84d4f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thumb_5625b9db0693f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thumb_566813906046a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thumb_5745110bbc27c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thumb_5745180003782.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tijiao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/touxiang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/unionpaynew.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/weixin2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indiana-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indiana-shu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indiana.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jfguanli.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jifen-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jifen-mall.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jifen-order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jifen-success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jifen-torder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/elecart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fastclick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/hmt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/index.min.14hpKd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/iscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.SuperSlide.2.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jscookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/layer.m.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/mui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/mui.picker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/other.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/swiper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/piaowu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recharge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renting-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rush.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sc-order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sc-track.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sctickets-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/self-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/self-pay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/self-torder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/self.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopcar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlianmeng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tickets-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tickets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/torder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tourism-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tourism-torder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tourism.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/track.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuikuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wm-assess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmai-order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yule.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +15,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -310,32 +115,34 @@
       <option name="presentableId" value="Default" />
       <updated>1537191759926</updated>
       <workItem from="1537191762116" duration="2643000" />
+      <workItem from="1537195796466" duration="300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1614000" />
+    <option name="totallyTimeSpent" value="1914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973601" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,12 +152,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -363,8 +166,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="230">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
